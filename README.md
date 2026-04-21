@@ -23,10 +23,11 @@
 
 - 🎓 CS Student passionate about **Deep Learning & Medical AI**
 - 🧠 Building **Multimodal DL architectures** for real-world problems
+- 🔬 Focused on **Explainability** and **Trustworthy AI** in clinical settings
 - 💡 Believer in: ***"Done is better than perfect."*** — Sheryl Sandberg
 - 📫 Reach me: **meer229590@gmail.com**
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -62,6 +63,25 @@
     </tr>
   </table>
 </div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  RESEARCH INTERESTS                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🔬 RESEARCH INTERESTS</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Medical%20Image%20Analysis-6FDA44?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Multimodal%20Learning-1a6b2a?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Explainable%20AI%20(XAI)-0d7a3e?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-6FDA44?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Capsule%20Networks-1a6b2a?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transfer%20Learning-0d7a3e?style=for-the-badge&logoColor=white"/>
+</div>
+
+<br/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -105,21 +125,25 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="140">
-        <img src="https://img.icons8.com/fluency/50/heat-map.png"/><br/>
-        <sub>Grad-CAM</sub>
+      <td align="center" width="160">
+        <img src="https://img.shields.io/badge/Grad--CAM-6FDA44?style=for-the-badge&logoColor=white" height="40"/><br/><br/>
+        <sub><b>Grad-CAM</b></sub><br/>
+        <sub>Gradient-weighted Class Activation Maps</sub>
       </td>
-      <td align="center" width="140">
-        <img src="https://img.icons8.com/fluency/50/combo-chart.png"/><br/>
-        <sub>SHAP</sub>
+      <td align="center" width="160">
+        <img src="https://img.shields.io/badge/SHAP-1a6b2a?style=for-the-badge&logoColor=white" height="40"/><br/><br/>
+        <sub><b>SHAP</b></sub><br/>
+        <sub>SHapley Additive exPlanations</sub>
       </td>
-      <td align="center" width="140">
-        <img src="https://img.icons8.com/fluency/50/mind-map.png"/><br/>
-        <sub>LIME</sub>
+      <td align="center" width="160">
+        <img src="https://img.shields.io/badge/LIME-0d7a3e?style=for-the-badge&logoColor=white" height="40"/><br/><br/>
+        <sub><b>LIME</b></sub><br/>
+        <sub>Local Interpretable Model Explanations</sub>
       </td>
-      <td align="center" width="140">
-        <img src="https://img.icons8.com/fluency/50/3d-object.png"/><br/>
-        <sub>Capsule Networks</sub>
+      <td align="center" width="160">
+        <img src="https://img.shields.io/badge/Capsule%20Nets-6FDA44?style=for-the-badge&logoColor=white" height="40"/><br/><br/>
+        <sub><b>Capsule Networks</b></sub><br/>
+        <sub>Dynamic Routing Architectures</sub>
       </td>
     </tr>
   </table>
@@ -180,32 +204,15 @@
         <sub>Jupyter</sub>
       </td>
       <td align="center" width="110">
-        <img src="https://img.icons8.com/fluency/50/google-colab.png"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Google_Colaboratory_SVG_Logo.svg" width="50"/><br/>
         <sub>Google Colab</sub>
       </td>
       <td align="center" width="110">
-        <img src="https://img.icons8.com/fluency/50/kaggle.png"/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="50"/><br/>
         <sub>Kaggle</sub>
       </td>
     </tr>
   </table>
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  GITHUB STATS                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">📊 OVERALL STATS</h2>
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=meerabai00&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meerabai00&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=meerabai00&theme=chartreuse-dark&hide_border=true"/>
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
