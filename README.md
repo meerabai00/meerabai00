@@ -65,7 +65,7 @@ CS Student | I am deeply interested in Deep Learning, Computer Vision, Medical I
 [<img src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png' alt='kaggle' height='40'>](https://www.kaggle.com/meermohdamjadhossain)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
-<a href="mailto:meer229590@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-YOUR__EMAIL%40gmail.com-blue?style=flat-square&logo=gmail"></a><br>
+<a href="mailto:meer229590@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-meer229590%40gmail.com-blue?style=flat-square&logo=gmail"></a><br>
 
 <h3 align="left">Languages and Tools:</h3>
 
