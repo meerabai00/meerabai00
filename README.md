@@ -56,8 +56,8 @@
       </td>
       <td align="center" width="200">
         <img src="https://img.icons8.com/fluency/60/repository.png"/><br/>
-        <strong>5+</strong><br/>
-        <sub>Kaggle Notebooks</sub>
+        <strong>18+</strong><br/>
+        <sub>Kaggle Datasets</sub>
       </td>
     </tr>
   </table>
