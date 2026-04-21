@@ -75,6 +75,7 @@
   <img src="https://img.shields.io/badge/Medical%20Image%20Analysis-6FDA44?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Multimodal%20Learning-1a6b2a?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Explainable%20AI%20(XAI)-0d7a3e?style=for-the-badge&logoColor=white"/>
+  <br/><br/>
   <img src="https://img.shields.io/badge/Computer%20Vision-6FDA44?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Capsule%20Networks-1a6b2a?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Transfer%20Learning-0d7a3e?style=for-the-badge&logoColor=white"/>
@@ -199,10 +200,12 @@
         <sub>Jupyter</sub>
       </td>
       <td align="center" width="110">
+        <!-- Google Colab — official Wikimedia SVG, no hotlink restrictions -->
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Google_Colaboratory_SVG_Logo.svg" width="50"/><br/>
         <sub>Google Colab</sub>
       </td>
       <td align="center" width="110">
+        <!-- Kaggle — devicons CDN, always renders on GitHub -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="50"/><br/>
         <sub>Kaggle</sub>
       </td>
