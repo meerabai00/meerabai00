@@ -95,4 +95,6 @@ CS Student | I am deeply interested in Deep Learning, Computer Vision, Medical I
 
 <hr>
 
-<img align='center' height="70" alt="Thanks" width="100%" src="mj.svg">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6FDA44&center=true&vCenter=true&width=600&height=60&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Let%27s+build+something+amazing+together+%F0%9F%9A%80" alt="Thanks" />
+</div>
