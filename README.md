@@ -59,13 +59,13 @@ CS Student | I am deeply interested in Deep Learning, Computer Vision, Medical I
 
 <h3 align="left"><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=22 height=22> Connect with me:</h3>
 
-[<img src='https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-64.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/YOUR_LINKEDIN_ID/)
+[<img src='https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-64.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/meer1429/)
 [<img src='https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-64.png' alt='github' height='40'>](https://github.com/meerabai00)
 [<img src='https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-64.png' alt='discord' height='40'>](https://discord.com/users/YOUR_DISCORD_ID)
-[<img src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png' alt='kaggle' height='40'>](https://www.kaggle.com/YOUR_KAGGLE_ID)
+[<img src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png' alt='kaggle' height='40'>](https://www.kaggle.com/meermohdamjadhossain)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
-<a href="mailto:YOUR_EMAIL@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-YOUR__EMAIL%40gmail.com-blue?style=flat-square&logo=gmail"></a><br>
+<a href="mailto:meer229590@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-YOUR__EMAIL%40gmail.com-blue?style=flat-square&logo=gmail"></a><br>
 
 <h3 align="left">Languages and Tools:</h3>
 
