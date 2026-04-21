@@ -23,7 +23,6 @@
 
 - 🎓 CS Student passionate about **Deep Learning & Medical AI**
 - 🧠 Building **Multimodal DL architectures** for real-world problems
-- 🔬 Currently working on **Down Syndrome Detection** using Capsule Networks
 - 💡 Believer in: ***"Done is better than perfect."*** — Sheryl Sandberg
 - 📫 Reach me: **meer229590@gmail.com**
 
