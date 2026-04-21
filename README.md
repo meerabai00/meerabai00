@@ -87,10 +87,10 @@ CS Student | I am deeply interested in Deep Learning, Computer Vision, Medical I
 
 ### <img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width=30 height=40> Overall Stats
 
-## 💡 Today Dev Quote
+## 💡 My Moto!
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=6FDA44&center=true&vCenter=true&width=600&height=50&lines=Done+is+better+than+perfect.;-%F0%9F%92%AA+Sheryl+Sandberg" alt="Mantra" />
 </div>
 
 <hr>
