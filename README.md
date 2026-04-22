@@ -248,7 +248,7 @@
 <div align="center">
   <h3>✨ THANK YOU FOR VISITING! ✨</h3>
   <h2>Happy Coding! 💻 ✨</h2>
-  <p>Made with 💙 by <strong>Meer Mohammad Amjad Hossain</strong></p>
+  <p>Made with by <strong>Meer Mohammad Amjad Hossain</strong></p>
   <p>Last Updated: Apr 2026 🚀</p>
 </div>
 
